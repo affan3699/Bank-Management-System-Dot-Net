@@ -1,0 +1,26 @@
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.CopyRight.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Deposit.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Details.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.AdminLoginForm.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.ManageAccounts.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Options_Admin.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Welcome.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Option.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.ClientLoginForm.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Properties.Resources.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.Transfer.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank_Management_System.WithDraw.resources
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank Management System.csproj.GenerateResource.cache
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Bank Management System.exe.config
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Bank Management System.exe
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Bank Management System.pdb
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\MySql.Data.dll
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Google.Protobuf.dll
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\BouncyCastle.Crypto.dll
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Ubiety.Dns.Core.dll
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\Renci.SshNet.dll
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\bin\Release\MySql.Data.xml
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank Management System.csproj.CopyComplete
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank Management System.exe
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank Management System.pdb
+E:\DSU\Semester4\DB Lab\Project\Final Project\Bank Management System\Bank Management System\obj\Release\Bank Management System.csprojAssemblyReference.cache
